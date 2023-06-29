@@ -14,7 +14,8 @@
 	</style>
 </head>
 <body>
-	<img src="manga.jpeg">
+	<img src="https://github.com/vitorre1s/htmlvictor/assets/137503963/cc6a8efa-2b77-40d9-905a-39029077caac"
+>
 	<h1>polo mangas</h1>
 	<p><b>Aqui tem todos os tipos de gênero de mangás, os mais conhecidos (exemplo: solo leveling), e também os que não são tão conhecidos.</b></p>
 	<p><b>Top 10 mais visto, os melhores da semana e dia</b></p>
